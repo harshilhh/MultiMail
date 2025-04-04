@@ -1,7 +1,7 @@
 
 # MultiMail
 
-![Visual representation of Project](image.jpg)
+![Visual representation of Project Structure](image.jpg)
 
 MultiMail is a simple tool that allows you to send bulk emails separately using multiple email IDs. Unlike Google, which offers a similar feature as a paid service, MultiMail enables you to send emails for free by specifying your email ID and app password.
 
@@ -55,6 +55,11 @@ Please refer [Google App Password.pdf](./Google_App_Password.pdf) file from ripo
 3. Specify the Multiple recipient email addresses saperated by Comma ",".
 4. Compose your email.
 5. Click the "Send" button to send emails separately.
+
+
+## Demo
+
+![Visual representation of Project](demo.jpg)
 
 
 ## Requirements
