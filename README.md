@@ -1,7 +1,7 @@
 
 # MultiMail
 
-![Visual representation of Project]({image}.webp)
+![Visual representation of Project]({image}.jpg)
 MultiMail is a simple tool that allows you to send bulk emails separately using multiple email IDs. Unlike Google, which offers a similar feature as a paid service, MultiMail enables you to send emails for free by specifying your email ID and app password.
 
 This tool is useful for:
