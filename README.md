@@ -57,11 +57,6 @@ Please refer [Google App Password.pdf](./Google_App_Password.pdf) file from ripo
 5. Click the "Send" button to send emails separately.
 
 
-## Demo
-
-![Visual representation of Project](demo.jpg)
-
-
 ## Requirements
 - Python 3.x
 - Required Python libraries (listed in `requirements.txt`)
