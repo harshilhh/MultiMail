@@ -23,7 +23,7 @@ This tool is useful for:
 
 Please generate an app password from the Manage your Google profile section.
 
-Please refer [Google App Password.pdf]() file from ripository to generate password.
+Please refer [Google App Password.pdf](./Google_App_Password.pdf) file from ripository to generate password.
 
 ### Step 2.
 
