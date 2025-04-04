@@ -149,7 +149,7 @@ def email_send_logic(recipients,subject,body):
 
 # Create GUI
 root = tk.Tk()
-root.title("Email Sender")
+root.title("MultiMail")
 root.geometry("900x700")
 root.configure(bg="lightblue")
 
